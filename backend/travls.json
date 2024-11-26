@@ -1,0 +1,363 @@
+[
+    {
+      "name": "Safar Travels",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAXEaH6qPnoku7svrIVq4lnrMV2RvoQlOqyQ&s",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "address": {
+        "street": "123 Marine Drive",
+        "zipCode": "400001"
+      },
+      "email": "contact@safartravels.com",
+      "contactNo": "+91-9876543210",
+      "cars": [
+        {
+          "carModel": "Toyota Innova",
+          "carNumber": "MH01AB1234",
+          "seatingCapacity": 7
+        },
+        {
+          "carModel": "Hyundai Creta",
+          "carNumber": "MH02CD5678",
+          "seatingCapacity": 5
+        }
+      ]
+    },
+    {
+      "name": "CityRide",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxYBmiisyWcAx0snRAY1WmY2vsbURtT-ge0Q&s",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "address": {
+        "street": "456 FC Road",
+        "zipCode": "411004"
+      },
+      "email": "info@cityride.com",
+      "contactNo": "+91-9876543211",
+      "cars": [
+        {
+          "carModel": "Maruti Suzuki Dzire",
+          "carNumber": "MH12EF9012",
+          "seatingCapacity": 5
+        },
+        {
+          "carModel": "Honda City",
+          "carNumber": "MH14GH3456",
+          "seatingCapacity": 5
+        }
+      ]
+    },
+    {
+      "name": "GoCab",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCmeULlINojFaywbZZ4tpg8u72L24ygOAlcQ&s",
+      "city": "Delhi",
+      "state": "Delhi",
+      "address": {
+        "street": "789 Connaught Place",
+        "zipCode": "110001"
+      },
+      "email": "support@gocab.com",
+      "contactNo": "+91-9876543212",
+      "cars": [
+        {
+          "carModel": "Mahindra XUV500",
+          "carNumber": "DL01IJ7890",
+          "seatingCapacity": 7
+        },
+        {
+          "carModel": "Renault Duster",
+          "carNumber": "DL02KL1234",
+          "seatingCapacity": 5
+        }
+      ]
+    },
+    {
+      "name": "TravelMate",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWN7pA1heXK8yMmIBPBm93N-xY7XFEd50xHw&s",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "address": {
+        "street": "123 MG Road",
+        "zipCode": "560001"
+      },
+      "email": "hello@travelmate.com",
+      "contactNo": "+91-9876543213",
+      "cars": [
+        {
+          "carModel": "Tata Nexon",
+          "carNumber": "KA01MN5678",
+          "seatingCapacity": 5
+        },
+        {
+          "carModel": "Ford EcoSport",
+          "carNumber": "KA02OP9012",
+          "seatingCapacity": 5
+        }
+      ]
+    },
+    {
+      "name": "Rapid Cabs",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8CKDWBAnWFg57fv7qFtuOgyFhbeRGACIRw&s",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "address": {
+        "street": "456 Banjara Hills",
+        "zipCode": "500034"
+      },
+      "email": "book@rapidcabs.com",
+      "contactNo": "+91-9876543214",
+      "cars": [
+        {
+          "carModel": "Chevrolet Tavera",
+          "carNumber": "TS09QR3456",
+          "seatingCapacity": 7
+        },
+        {
+          "carModel": "Toyota Fortuner",
+          "carNumber": "TS10ST7890",
+          "seatingCapacity": 7
+        }
+      ]
+    },
+    {
+      "name": "WheelsOnGo",
+      "logo": "https://www.shutterstock.com/shutterstock/photos/2273119793/display_1500/stock-photo-portland-trail-blazers-basketball-logo-image-2273119793.jpg",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "address": {
+        "street": "789 Mount Road",
+        "zipCode": "600002"
+      },
+      "email": "contact@wheelsongo.com",
+      "contactNo": "+91-9876543215",
+      "cars": [
+        {
+          "carModel": "Hyundai Verna",
+          "carNumber": "TN01UV1234",
+          "seatingCapacity": 5
+        },
+        {
+          "carModel": "Skoda Octavia",
+          "carNumber": "TN02WX5678",
+          "seatingCapacity": 5
+        }
+      ]
+    },
+    {
+      "name": "UrbanDrive",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGfpkEkxaSSVxPxVSSuTTzEfXqZ5GtlCSxUA&s",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "address": {
+        "street": "123 Park Street",
+        "zipCode": "700016"
+      },
+      "email": "support@urbandrive.com",
+      "contactNo": "+91-9876543216",
+      "cars": [
+        {
+          "carModel": "Maruti Suzuki Ciaz",
+          "carNumber": "WB01YZ7890",
+          "seatingCapacity": 5
+        },
+        {
+          "carModel": "Honda CR-V",
+          "carNumber": "WB02AB1234",
+          "seatingCapacity": 7
+        }
+      ]
+    },
+    {
+      "name": "RideNow",
+      "logo": "https://static.wixstatic.com/media/598e32_1ade4e88d19a49068bfe30e5e6166ff7~mv2_d_1871_1634_s_2.gif",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "address": {
+        "street": "456 CG Road",
+        "zipCode": "380009"
+      },
+      "email": "book@ridenow.com",
+      "contactNo": "+91-9876543217",
+      "cars": [
+        {
+          "carModel": "Mahindra Scorpio",
+          "carNumber": "GJ01CD5678",
+          "seatingCapacity": 7
+        },
+        {
+          "carModel": "Renault Kwid",
+          "carNumber": "GJ02EF9012",
+          "seatingCapacity": 5
+        }
+      ]
+    },
+    {
+      "name": "Swift Cabs",
+      "logo": "https://www.shutterstock.com/image-vector/english-taxi-location-pin-logo-260nw-2081382883.jpg",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "address": {
+        "street": "789 MI Road",
+        "zipCode": "302001"
+      },
+      "email": "contact@swiftcabs.com",
+      "contactNo": "+91-9876543218",
+      "cars": [
+        {
+          "carModel": "Maruti Suzuki Swift",
+          "carNumber": "RJ01GH3456",
+          "seatingCapacity": 5
+        },
+        {
+          "carModel": "Toyota Etios",
+          "carNumber": "RJ02IJ7890",
+          "seatingCapacity": 5
+        }
+      ]
+    },
+    {
+      "name": "EasyCab",
+      "logo": "https://thedesignlove.com/wp-content/uploads/2022/07/725-Easy-Cabs-Logo-Template.jpg",
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "address": {
+        "street": "123 Hazratganj",
+        "zipCode": "226001"
+      },
+      "email": "info@easycab.com",
+      "contactNo": "+91-9876543219",
+      "cars": [
+        {
+          "carModel": "Honda Amaze",
+          "carNumber": "UP01KL1234",
+          "seatingCapacity": 5
+        },
+        {
+          "carModel": "Hyundai i20",
+          "carNumber": "UP02MN5678",
+          "seatingCapacity": 5
+        }
+      ]
+    },
+    {
+      "name": "MetroCabs",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmDWAVt-sCsDdWh5itziZIov9CJfMAYiJEhA&s",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "address": {
+        "street": "456 Sector 17",
+        "zipCode": "160017"
+      },
+      "email": "support@metrocabs.com",
+      "contactNo": "+91-9876543220",
+      "cars": [
+        {
+          "carModel": "Hyundai Venue",
+          "carNumber": "CH01OP9012",
+          "seatingCapacity": 5
+        },
+        {
+          "carModel": "Kia Seltos",
+          "carNumber": "CH02QR3456",
+          "seatingCapacity": 5
+        }
+      ]
+    },
+    {
+      "name": "QuickRide",
+      "logo": "https://quickride.in/assets/images/logo200x200.png",
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "address": {
+        "street": "789 New Market",
+        "zipCode": "462003"
+      },
+      "email": "contact@quickride.com",
+      "contactNo": "+91-9876543221",
+      "cars": [
+        {
+          "carModel": "Tata Harrier",
+          "carNumber": "MP01ST7890",
+          "seatingCapacity": 5
+        },
+        {
+          "carModel": "Mahindra Thar",
+          "carNumber": "MP02UV1234",
+          "seatingCapacity": 7
+        }
+      ]
+    },
+    {
+      "name": "Goswami Cabs",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLCjg5aaaGWf9qlpiM5thpqqhHEK_TqPjkQ&s",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "address": {
+        "street": "123 MG Road",
+        "zipCode": "452001"
+      },
+      "email": "support@glidecabs.com",
+      "contactNo": "+91-9876543222",
+      "cars": [
+        {
+          "carModel": "Nissan Magnite",
+          "carNumber": "MP09WX5678",
+          "seatingCapacity": 5
+        },
+        {
+          "carModel": "Honda WR-V",
+          "carNumber": "MP10YZ9012",
+          "seatingCapacity": 5
+        }
+      ]
+    },
+    {
+      "name": "ZipCars",
+      "logo": "https://img.freepik.com/premium-vector/car-travel-logo-design_622874-46.jpg?semt=ais_hybrid",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "address": {
+        "street": "456 DLF Phase 1",
+        "zipCode": "122002"
+      },
+      "email": "info@zipcars.com",
+      "contactNo": "+91-9876543223",
+      "cars": [
+        {
+          "carModel": "Hyundai Creta",
+          "carNumber": "HR01AB1234",
+          "seatingCapacity": 5
+        },
+        {
+          "carModel": "Ford Endeavour",
+          "carNumber": "HR02CD5678",
+          "seatingCapacity": 7
+        }
+      ]
+    },
+    {
+      "name": "Orbit Cabs",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNEpMZHNp_g6hqCxtdxuc2_R-30fxFf59c8g&s",
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "address": {
+        "street": "789 Sector 18",
+        "zipCode": "201301"
+      },
+      "email": "contact@orbitcabs.com",
+      "contactNo": "+91-9876543224",
+      "cars": [
+        {
+          "carModel": "Renault Triber",
+          "carNumber": "UP01EF9012",
+          "seatingCapacity": 7
+        },
+        {
+          "carModel": "Mahindra Marazzo",
+          "carNumber": "UP02GH3456",
+          "seatingCapacity": 7
+        }
+      ]
+    }
+  ]
+  
